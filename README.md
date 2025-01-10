@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/dave-mods/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dave-mods/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Building AD Infastructure in Azure]
+  - [Building AD Infastructure in Azure](https://github.com/dave-mods/Building_AD_Azure)
   - [Deploying AD]
   - [Creating Users in Powershell, Group Policy and Managing Accounts]
 
