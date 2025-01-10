@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dave-mods/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Building AD Infastructure in Azure](https://github.com/dave-mods/Building_AD_Azure)
-  - [Deploying AD]
+  - [Deploying AD](https://github.com/dave-mods/Depolying_AD)
   - [Creating Users in Powershell, Group Policy and Managing Accounts]
 
 
