@@ -6,8 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/dave-mods/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dave-mods/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dave-mods/ticket-lifecycle)
-- <b>Network File Shares and Permissions</b>
-  - [Network Files and Permissions](https://github.com/dave-mods/network-fileshare)
+- <b>Active Directory</b>
+  - 
 
 
 
