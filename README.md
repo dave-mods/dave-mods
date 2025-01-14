@@ -11,7 +11,7 @@
   - [Deploying AD](https://github.com/dave-mods/Depolying_AD)
   - [Creating Users in Powershell, Group Policy and Managing Accounts](https://github.com/dave-mods/Creating_Users_in_Powershell_Group_Policy_and_Managing_Accounts)
 - <b>Microsoft Azure<b/>
-
+  - [Understanding DNS](https://github.com/dave-mods/Understanding_DNS)
 
 
 
