@@ -12,6 +12,7 @@
   - [Creating Users in Powershell, Group Policy and Managing Accounts](https://github.com/dave-mods/Creating_Users_in_Powershell_Group_Policy_and_Managing_Accounts)
 - <b>Microsoft Azure<b/>
   - [Understanding DNS](https://github.com/dave-mods/Understanding_DNS)
+  - [Network File Share and Permissions](https://github.com/dave-mods/Network_File_Share_And_Permissions)
 
 
 
